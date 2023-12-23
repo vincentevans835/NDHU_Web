@@ -1,0 +1,32 @@
+body{
+    background-color: goldenrod;
+}
+#CM{
+    background-color: blueviolet;
+}
+#HSCE{
+    background-color: brown;
+}
+#CA{
+    background-color: palevioletred;
+}
+#CES{
+    background-color: green;
+}
+#CHSS{
+    background-color: red;
+}
+#CIS{
+    background-color: darkcyan;
+}
+#contact{
+    background-color: cornflowerblue;
+}
+#CSE{
+    background-color: darkslategray;
+}
+.cards{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+    gap:20px;
+}
